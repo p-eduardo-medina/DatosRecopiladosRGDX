@@ -1,3 +1,4 @@
+Datos para un Campo magnético de 50 Gauss
 20		750		5
 30		732		5
 40		620		5
